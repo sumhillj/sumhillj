@@ -1,11 +1,5 @@
 :lotus: 정서, Chloe Seo Jung, or sumhillj (online)
 
-Senior Software Engineering major at [Korea Aerospace University](https://www.kau.ac.kr/)
-
-Development HQ Intern at [Mobidoo](https://sauce.im/), Summer 2025
-
-Frontend Development •••• Project Management •••• Web design ••••
-
 ###
 
 <h3 align="center">TECH</h3>
