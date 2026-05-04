@@ -1,4 +1,4 @@
-:lotus: 정서, Chloe Seo Jung, or sumhillj (online)
+정서, Chloe Seo Jung, or sumhillj (online)
 
 ###
 
